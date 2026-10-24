@@ -11,8 +11,10 @@ PM: Putri
 
 Kode inline `ini kode inline`.
 
-~~~
+~~~php
 <?php
 
-echo    "Halo!";
+echo "Halo!";
+
 ~~~
+>
