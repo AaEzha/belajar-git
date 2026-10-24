@@ -4,7 +4,7 @@ Saya adalah seorang mahasiswa yang kalau nonton bioskop, gak mau berdiri.
 
 Yang kalau jari kakinya kepentok meja, bilang "aww".
 
-PM: Diani / Putri 
+PM: Diani
 
 ## 10 Tahun Yang Akan Datang
 
